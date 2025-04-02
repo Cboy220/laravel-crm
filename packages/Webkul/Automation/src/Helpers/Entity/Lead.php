@@ -54,7 +54,7 @@ class Lead extends AbstractEntity
      */
     public function getAttributes(string $entityType, array $skipAttributes = ['textarea', 'image', 'file', 'address']): array
     {
-        return parent::getAttributes($entityType, $skipAttributes);
+       return parent::getAttributes($entityType, $skipAttributes);
     }
 
     /**
@@ -71,31 +71,25 @@ class Lead extends AbstractEntity
                 'id'         => 'update_lead',
                 'name'       => trans('admin::app.settings.workflows.helpers.update-lead'),
                 'attributes' => $this->getAttributes('leads'),
-            ],
-            [
+            ], [
                 'id'         => 'update_person',
                 'name'       => trans('admin::app.settings.workflows.helpers.update-person'),
                 'attributes' => $this->getAttributes('persons'),
-            ],
-            [
+            ], [
                 'id'      => 'send_email_to_person',
                 'name'    => trans('admin::app.settings.workflows.helpers.send-email-to-person'),
                 'options' => $emailTemplates,
-            ],
-            [
+            ], [
                 'id'      => 'send_email_to_sales_owner',
                 'name'    => trans('admin::app.settings.workflows.helpers.send-email-to-sales-owner'),
                 'options' => $emailTemplates,
-            ],
-            [
+            ], [
                 'id'   => 'add_tag',
                 'name' => trans('admin::app.settings.workflows.helpers.add-tag'),
-            ],
-            [
+            ], [
                 'id'   => 'add_note_as_activity',
                 'name' => trans('admin::app.settings.workflows.helpers.add-note-as-activity'),
-            ],
-            [
+            ], [
                 'id'      => 'trigger_webhook',
                 'name'    => trans('admin::app.settings.workflows.helpers.add-webhook'),
                 'options' => $webhooksOptions,
