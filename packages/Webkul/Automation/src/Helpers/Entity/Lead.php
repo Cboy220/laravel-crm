@@ -54,7 +54,7 @@ class Lead extends AbstractEntity
      */
     public function getAttributes(string $entityType, array $skipAttributes = ['textarea', 'image', 'file', 'address']): array
     {
-       return parent::getAttributes($entityType, $skipAttributes);
+        return parent::getAttributes($entityType, $skipAttributes);
     }
 
     /**
