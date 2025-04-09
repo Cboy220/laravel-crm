@@ -64,17 +64,6 @@
 
                                 <x-admin::form.control-group.error control-name="files" />
                             </x-admin::form.control-group>
-
-                            <!-- Sample Downloadable file -->
-                            <a
-                                href="{{ Storage::url('/lead-samples/sample.pdf') }}"
-                                target="_blank"
-                                id="source-sample"
-                                class="cursor-pointer text-sm text-blue-600 transition-all hover:underline"
-                                download
-                            >
-                                @lang('admin::app.leads.index.upload.sample-pdf')
-                            </a>
                         </x-slot>
 
                         <!-- Modal Footer -->
@@ -105,7 +94,7 @@
 
             methods: {
                 create(params, { resetForm, setErrors }) {
-                    const selectedFiles = this.$refs.file?.files;  
+                    const selectedFiles = this.$refs.file?.files;
 
                     if (selectedFiles.length === 0) {
                         this.$emitter.emit('add-flash', { type: 'error', message: "@lang('admin::app.leads.index.upload.file-required')" });

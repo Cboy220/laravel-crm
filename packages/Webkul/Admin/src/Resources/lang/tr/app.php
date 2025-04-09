@@ -1961,7 +1961,6 @@ return [
                 'file'          => 'Dosya yükleme',
                 'file-info'     => 'Yalnızca pdf, bmp, jpg, jpeg, png formatındaki dosyalar kabul edilir.',
                 'file-required' => 'Devam etmek için lütfen en az bir geçerli dosya seçin.',
-                'sample-pdf'    => 'Örnek PDF',
                 'save-btn'      => 'Kaydet',
                 'upload-file'   => 'Dosya yükle',
             ],
