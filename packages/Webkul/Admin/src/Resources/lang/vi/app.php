@@ -1854,7 +1854,6 @@ return [
                 'file'          => 'Tải tệp lên',
                 'file-info'     => 'Chỉ chấp nhận các tệp định dạng pdf, bmp, jpg, jpeg, png.',
                 'file-required' => 'Vui lòng chọn ít nhất một tệp hợp lệ để tiếp tục.',
-                'sample-pdf'    => 'PDF Mẫu',
                 'save-btn'      => 'Lưu',
                 'upload-file'   => 'Tải lên tệp',
             ],

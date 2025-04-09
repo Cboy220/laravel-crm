@@ -1846,7 +1846,6 @@ return [
                 'file'          => 'Upload de arquivo',
                 'file-info'     => 'Apenas arquivos nos formatos pdf, bmp, jpg, jpeg, png são aceitos.',
                 'file-required' => 'Por favor, selecione pelo menos um arquivo válido para prosseguir.',
-                'sample-pdf'    => 'PDF de Exemplo',
                 'save-btn'      => 'Salvar',
                 'upload-file'   => 'Enviar arquivo',
             ],

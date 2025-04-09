@@ -1959,7 +1959,6 @@ return [
                 'file'          => 'File Upload',
                 'file-info'     => 'Only pdf,bmp,jpg,jpeg,png format files are accepted.',
                 'file-required' => 'Please select at least one valid file to proceed.',
-                'sample-pdf'    => 'Sample PDF',
                 'save-btn'      => 'Save',
                 'upload-file'   => 'Upload File',
             ],
