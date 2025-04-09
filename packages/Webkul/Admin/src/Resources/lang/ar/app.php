@@ -1957,7 +1957,6 @@ return [
                 'file'          => 'رفع ملف',
                 'file-info'     => 'يتم قبول الملفات بتنسيق pdf, bmp, jpg, jpeg, png فقط.',
                 'file-required' => 'يرجى اختيار ملف صالح واحد على الأقل للمتابعة.',
-                'sample-pdf'    => 'نموذج File',
                 'save-btn'      => 'حفظ',
                 'upload-file'   => 'رفع الملف',
             ],

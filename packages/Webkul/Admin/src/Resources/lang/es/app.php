@@ -1960,7 +1960,6 @@ return [
                 'file'          => 'Carga de archivo',
                 'file-info'     => 'Solo se aceptan archivos en formato pdf, bmp, jpg, jpeg, png.',
                 'file-required' => 'Por favor, selecciona al menos un archivo válido para continuar.',
-                'sample-pdf'    => 'PDF de Muestra',
                 'save-btn'      => 'Guardar',
                 'upload-file'   => 'Subir archivo',
             ],
