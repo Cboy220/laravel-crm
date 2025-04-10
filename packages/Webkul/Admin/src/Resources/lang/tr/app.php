@@ -2177,8 +2177,8 @@ return [
                     'info'                => 'OpenRouter API Anahtarınız ile Magic AI deneyiminizi geliştirin. Şimdi entegre edin ve size özel, sorunsuz bir AI macerası yaşayın! Ayarları kolayca özelleştirin ve AI yolculuğunuzun kontrolünü elinize alın.',
                     'other'               => 'Diğer Model',
                     'other-model'         => 'Diğer modeller için OpenRouter\'dan Model ID kullanın.',
-                    'pdf-generation'      => 'PDF Oluşturma',
-                    'pdf-generation-info' => 'PDF dosyalarından otomatik olarak veri çıkarmak ve bunları metin formatına dönüştürmek için PDF Oluşturma özelliğini etkinleştirin. Bu özelliği etkinleştirerek iş akışınızı kolaylaştırın ve verimliliğinizi artırın.',
+                    'doc-generation'      => 'DOC Oluşturma',
+                    'doc-generation-info' => 'DOC dosyalarından verileri otomatik olarak çıkartıp metin formatına dönüştürmek için DOC Oluşturma özelliğini etkinleştirin. Bu özelliği etkinleştirerek iş akışınızı kolaylaştırın ve verimliliğinizi artırın.',
                     'title'               => 'Genel Ayarlar',
 
                     'models'     => [
