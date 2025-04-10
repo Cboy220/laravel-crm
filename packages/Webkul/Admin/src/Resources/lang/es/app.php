@@ -2176,8 +2176,8 @@ return [
                     'info'                => 'Mejora tu experiencia con Magic AI con tu clave API de OpenRouter. ¡Intégrala ahora para una aventura de IA personalizada y sin problemas, hecha a tu medida! Personaliza la configuración sin esfuerzo y toma el control de tu viaje de IA.',
                     'other'               => 'Otro Modelo',
                     'other-model'         => 'Para otros modelos, usa el ID del Modelo de OpenRouter.',
-                    'pdf-generation'      => 'Generación de PDF',
-                    'pdf-generation-info' => 'Habilita la función de Generación de PDF para extraer automáticamente datos de archivos PDF y convertirlos en formato de texto. Mejora tu productividad y eficiencia habilitando esta función para optimizar tu flujo de trabajo.',
+                    'doc-generation'      => 'Generación de DOC',
+                    'doc-generation-info' => 'Habilita la función de generación de DOC para extraer automáticamente datos de archivos DOC y convertirlos a formato de texto. Mejora tu productividad y eficiencia habilitando esta función para agilizar tu flujo de trabajo.',
                     'title'               => 'Configuraciones Generales',
 
                     'models'     => [
