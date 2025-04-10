@@ -24,7 +24,7 @@
 
         <div class="flex items-center gap-x-2.5">
             <!-- Upload File for Lead Creation -->
-            @if(core()->getConfigData('general.magic_ai.pdf_generation.enabled'))
+            @if(core()->getConfigData('general.magic_ai.doc_generation.enabled'))
                 @include('admin::leads.index.upload')
             @endif
 

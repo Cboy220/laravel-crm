@@ -240,7 +240,7 @@ return [
             ],
         ],
     ], [
-        'key'    => 'general.magic_ai.pdf_generation',
+        'key'    => 'general.magic_ai.doc_generation',
         'name'   => 'admin::app.configuration.index.magic-ai.settings.doc-generation',
         'info'   => 'admin::app.configuration.index.magic-ai.settings.doc-generation-info',
         'sort'   => 2,
