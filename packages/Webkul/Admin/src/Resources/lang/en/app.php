@@ -2173,8 +2173,8 @@ return [
                     'info'                => 'Enhance your Magic AI experience with your OpenRouter API Key. Integrate it now for a seamless, personalized AI adventure tailored just for you! Effortlessly customize settings and take control of your AI journey.',
                     'other'               => 'Other Model',
                     'other-model'         => 'For other models, use the Model ID from OpenRouter.',
-                    'pdf-generation'      => 'PDF Generation',
-                    'pdf-generation-info' => 'Enable the PDF Generation feature to automatically extract data from PDF files and convert them into text format. Enhance your productivity and efficiency by enabling this feature to streamline your workflow.',
+                    'doc-generation'      => 'DOC Generation',
+                    'doc-generation-info' => 'Enable the DOC Generation feature to automatically extract data from DOC files and convert them into text format. Enhance your productivity and efficiency by enabling this feature to streamline your workflow.',
                     'title'               => 'General Settings',
 
                     'models'     => [
