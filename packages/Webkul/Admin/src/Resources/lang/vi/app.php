@@ -2030,9 +2030,8 @@ return [
                     'info'                => 'Nâng cao trải nghiệm Magic AI của bạn với Khóa API OpenRouter. Tích hợp ngay bây giờ để có một cuộc phiêu lưu AI liền mạch và cá nhân hóa chỉ dành cho bạn! Dễ dàng tùy chỉnh cài đặt và kiểm soát hành trình AI của bạn.',
                     'other'               => 'Mô hình khác',
                     'other-model'         => 'Đối với các mô hình khác, sử dụng ID Mô hình từ OpenRouter.',
-                    'pdf-generation'      => 'Tạo PDF',
-                    'pdf-generation-info' => 'Kích hoạt tính năng Tạo PDF để tự động trích xuất dữ liệu từ các tệp PDF và chuyển đổi chúng thành định dạng văn bản. Nâng cao năng suất và hiệu quả của bạn bằng cách kích hoạt tính năng này để tối ưu hóa quy trình làm việc của bạn.',
-                    'title'               => 'Cài đặt chung',
+                    'doc-generation'      => 'Tạo DOC',
+                    'doc-generation-info' => 'Bật tính năng Tạo DOC để tự động trích xuất dữ liệu từ các tệp DOC và chuyển đổi chúng sang định dạng văn bản. Nâng cao năng suất và hiệu quả công việc bằng cách bật tính năng này để đơn giản hóa quy trình làm việc của bạn.',
 
                     'models'     => [
                         'deepseek-r1'           => 'Deepseek R1 Distill-llama-8b',
