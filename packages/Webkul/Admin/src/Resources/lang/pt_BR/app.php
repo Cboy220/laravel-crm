@@ -39,6 +39,8 @@ return [
         'delete'          => 'Excluir',
         'export'          => 'Exportar',
         'mass-delete'     => 'Exclusão em Massa',
+        'event'           => 'Evento',
+        'campaigns'       => 'Campanhas',
     ],
 
     'users' => [

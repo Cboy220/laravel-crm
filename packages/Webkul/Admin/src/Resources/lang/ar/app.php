@@ -44,6 +44,8 @@ return [
         'data-transfer'   => 'نقل البيانات',
         'imports'         => 'الواردات',
         'import'          => 'استيراد',
+        'event'           => 'حدث',
+        'campaigns'       => 'حملات',
     ],
 
     'users' => [
