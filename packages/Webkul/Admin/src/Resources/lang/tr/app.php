@@ -44,6 +44,8 @@ return [
         'data-transfer'   => 'Veri Transferi',
         'imports'         => 'İthalatlar',
         'import'          => 'İthalat',
+        'event'           => 'Etkinlik',
+        'campaigns'       => 'Kampanyalar',
     ],
 
     'users' => [
