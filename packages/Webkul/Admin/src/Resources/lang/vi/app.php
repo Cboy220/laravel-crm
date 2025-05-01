@@ -41,6 +41,8 @@ return [
         'delete'          => 'Xóa',
         'export'          => 'Xuất khẩu',
         'mass-delete'     => 'Xóa hàng loạt',
+        'event'           => 'Sự kiện',
+        'campaigns'       => 'Chiến dịch',
     ],
 
     'users' => [
