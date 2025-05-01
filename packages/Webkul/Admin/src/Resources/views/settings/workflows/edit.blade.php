@@ -200,7 +200,7 @@
                     {!! view_render_event('admin.settings.workflows.edit.condition.before', ['workflow' => $workflow]) !!}
 
                     <!-- Conditions -->
-                    <div 
+                    <div
                         class="flex flex-col gap-4"
                         id="conditions"
                     >
@@ -344,7 +344,7 @@
             id="v-workflow-condition-item-template"
         >
             <div class="flex items-center justify-between gap-4">
-                <div class="flex flex-wrap gap-4">
+                <div class="flex flex-1 gap-4 max-sm:flex-1 max-sm:flex-wrap">
                     <!-- Select main condition. -->
                     <select
                         :name="['conditions[' + index + '][attribute]']"
