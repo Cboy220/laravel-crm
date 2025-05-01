@@ -44,6 +44,8 @@ return [
         'data-transfer'   => 'Transferencia de Datos',
         'imports'         => 'Importaciones',
         'import'          => 'Importar',
+        'event'           => 'Evento',
+        'campaigns'       => 'Campañas',
     ],
 
     'users' => [

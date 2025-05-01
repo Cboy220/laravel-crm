@@ -44,6 +44,8 @@ return [
         'data-transfer'   => 'انتقال داده',
         'imports'         => 'واردات',
         'import'          => 'وارد کردن',
+        'event'           => 'رویداد',
+        'campaigns'       => 'کمپین‌ها',
     ],
 
     'users' => [
